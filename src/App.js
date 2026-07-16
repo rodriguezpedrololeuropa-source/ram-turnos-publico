@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 
-const API = "https://script.google.com/macros/s/AKfycbxgq93w-3tL0PArQdtsb6v0sYjpuvAxPp0P4GCq177YAuHJ03YmTsyVD45Plu3mVcJ-/exec";
+const API = "https://script.google.com/macros/s/AKfycbywS7zkLkU7MhQfGrHCROofJoObrMSM8Wj9cQ2VuTejYyb6J5v2_Nu-N0h8aMG50JDk/exec";
 
 const SVCS = [
   { id: "corte", label: "Corte", duration: 45, price: 14000 },
